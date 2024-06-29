@@ -1,0 +1,38 @@
+* {
+  padding: 20px;
+  max-width: 500px;
+}
+
+body {
+  background: pink;
+}
+
+h4 {
+  background-color: red;
+}
+
+.green {
+  background: green;
+  margin-top: 10px;
+}
+
+.yellow {
+  background: yellow;
+  margin-top: 20px;
+}
+
+#blue {
+  background-color: blue;
+  margin-top: 20px;
+}
+
+.container {
+  display: flex;
+}
+
+.teal {
+  background-color: teal;
+  margin: 10px;
+  width: 70px;
+  text-align: center;
+}
